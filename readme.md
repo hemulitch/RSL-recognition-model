@@ -1,3 +1,4 @@
-## Project "Development of a Russian Sign Language Recognition and Translation Model"
+## Проект "Создание модели для распознавания и перевода Русского жестового языка"
 
-Description
+Цель: создание модели, которая не только распознает жесты РЖЯ, но и формирует осмысленный перевод.
+
